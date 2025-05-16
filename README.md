@@ -11,6 +11,7 @@
 
 # Tech Stack:
 <img src="./Assets/react-svgrepo-com.svg" width="100" height="auto" />
+<img src="./Assets/javascript-svgrepo-com.svg" width="100" height="100">
 <!-- ![](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) -->
 <!-- ![](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) -->
 ![](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
