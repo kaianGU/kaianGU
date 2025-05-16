@@ -1,4 +1,4 @@
-<img src="./Assets/BackGround.png" alt="Kaian Gustavo" width="900" height="220"/>
+<img src="./Assets/BackGround.png" alt="Kaian Gustavo" width="900" height="100"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=80&pause=1000&color=34039D&width=435&lines=Kaian+Gustavo;Web+Developer)](https://git.io/typing-svg)
 
