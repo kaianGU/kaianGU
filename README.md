@@ -14,10 +14,8 @@
 <img src="./Assets/javascript-svgrepo-com.svg" width="100" height="100">
 <img src="./Assets/next-js-svgrepo-com.svg" width="100" height="100">
 <img src="./Assets/typescript-svgrepo-com.svg" width="100" height="100">
+<img src="./Assets/vite-svgrepo-com.svg" width="100" height="100">
 
-![](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-<!-- ![](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) -->
-<!-- ![](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) -->
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 # GitHub Stats:
