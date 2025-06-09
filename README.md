@@ -12,10 +12,10 @@
 # Tech Stack:
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap; margin-top: 10px;">
   <img src="./Assets/react-svgrepo-com.svg" width="50" height="auto" />
-  <img src="./Assets/javascript-svgrepo-com.svg" width="50" height="100" />
-  <img src="./Assets/next-js-svgrepo-com.svg" width="50" height="100" />
-  <img src="./Assets/typescript-svgrepo-com.svg" width="50" height="100" />
-  <img src="./Assets/vite-svgrepo-com.svg" width="50" height="100" />
+  <img src="./Assets/javascript-svgrepo-com.svg" width="50" height="auto" />
+  <img src="./Assets/next-js-svgrepo-com.svg" width="50" height="auto" />
+  <img src="./Assets/typescript-svgrepo-com.svg" width="50" height="auto" />
+  <img src="./Assets/vite-svgrepo-com.svg" width="50" height="auto" />
 </div>
 
 # 📊 GitHub Stats:
