@@ -10,11 +10,13 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kaiangustavo20) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaian-gustavo-b12b2b218/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30535975) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@FIAPKAIAN) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fiapkaian@gmail.com) 
 
 # Tech Stack:
-<img src="./Assets/react-svgrepo-com.svg" width="100" height="auto" />
-<img src="./Assets/javascript-svgrepo-com.svg" width="100" height="100">
-<img src="./Assets/next-js-svgrepo-com.svg" width="100" height="100">
-<img src="./Assets/typescript-svgrepo-com.svg" width="100" height="100">
-<img src="./Assets/vite-svgrepo-com.svg" width="100" height="100">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap; margin-top: 10px;">
+  <img src="./Assets/react-svgrepo-com.svg" width="100" height="auto" />
+  <img src="./Assets/javascript-svgrepo-com.svg" width="100" height="100" />
+  <img src="./Assets/next-js-svgrepo-com.svg" width="100" height="100" />
+  <img src="./Assets/typescript-svgrepo-com.svg" width="100" height="100" />
+  <img src="./Assets/vite-svgrepo-com.svg" width="100" height="100" />
+</div>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kaianGu&theme=neon&hide_border=true&include_all_commits=true&count_private=true)<br/>
