@@ -16,11 +16,18 @@
 <img src="./Assets/typescript-svgrepo-com.svg" width="100" height="100">
 <img src="./Assets/vite-svgrepo-com.svg" width="100" height="100">
 
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kaianGU&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaianGU&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kaianGu&theme=neon&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=kaianGu&theme=neon&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaianGu&theme=neon&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=kaianGu&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kaianGU&theme=default&no-frame=false&no-bg=true&margin-w=4)
